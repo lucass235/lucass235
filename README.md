@@ -37,6 +37,13 @@
   </div>
 
 ### Linguagens Usadas
+ <div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucass235)](https://github.com/lucass235/github-readme-stats)
+  <a href="https://github.com/lucass235">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucass235&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+ </div>
+
 
 
