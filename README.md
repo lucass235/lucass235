@@ -17,7 +17,7 @@
   </a>
   
    <a href="https://www.instagram.com/lucasdossantos235/" target="_blank">
-  <img align="center" alt="lucas-instagram" height="60" width="40" src=https://image.flaticon.com/icons/png/128/2111/2111463.svg" style="max-width:100%">
+  <img align="center" alt="lucas-instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" style="max-width:100%">
   </a>
   
   ### Minhas Habilidades
@@ -28,7 +28,6 @@
   <img align="center" alt="lucas-github" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="max-width:100%">
   </a>
   
-
 
 ### Linguagens Usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucass235)](https://github.com/lucass235/github-readme-stats)
