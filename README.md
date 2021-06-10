@@ -19,6 +19,10 @@
    <a href="https://www.instagram.com/lucasdossantos235/" target="_blank">
   <img align="center" alt="lucas-instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" style="max-width:100%">
   </a>
+  
+  <a href="https://twitter.com/lucass235" target="_blank">
+  <img align="center" alt="lucas-twiter" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%">
+  </a>
   </div>
   
   ### Minhas Habilidades
