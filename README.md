@@ -4,7 +4,7 @@
 
 * Estudante de Ciência da computação 💻
 * Brasileiro 🇧🇷
-* 21 anos
+* 22 anos
 
 ### Meus Contatos
 <div>
