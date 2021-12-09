@@ -28,11 +28,17 @@
   ### Minhas Habilidades
   <div>
   
-  <img align="center" alt="lucas-java" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%">
+  <img align="center" alt="lucas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%">
   </a> 
   
-  <img align="center" alt="lucas-github" height="80" width="80" src="https://images-ext-1.discordapp.net/external/mLneLxrunP3vGXXf58XTfy4MvR8XvaXtJeeXLE5hsxY/https/i.imgur.com/c4vqk2T.png?width=299&height=300" style="max-width:100%">
+  <img align="center" alt="lucas-github" height="50" width="40" src="https://images-ext-1.discordapp.net/external/mLneLxrunP3vGXXf58XTfy4MvR8XvaXtJeeXLE5hsxY/https/i.imgur.com/c4vqk2T.png?width=299&height=300" style="max-width:100%">
   </a>
+  
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Dj-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+   <img align="center" alt="Dj-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   </div>
 
