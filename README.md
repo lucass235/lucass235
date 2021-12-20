@@ -55,5 +55,5 @@
 
  </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucass235&repo=lucass235&theme=react)](https://github.com/lucass235/lucass235)
+![Snake animation](https://github.com/lucass235/lucass235/blob/output/github-contribution-grid-snake.svg)
 
