@@ -1,6 +1,6 @@
 # Olá, Sejam Bem Vindos!! 🙃
 
-## Sou Lucas dos Santos Amorim Rêgo 👋
+<h2> Sou Lucas dos Santos Amorim Rêgo 👋</h2>
 
 * Estudante de Ciência da computação 💻
 * Brasileiro 🇧🇷
@@ -41,7 +41,7 @@
    <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   </div>
-
+  
 ### Linguagens Usadas
  <div>
   
