@@ -50,11 +50,10 @@
  <div>
   
 <a href="https://github.com/lucass235">
-<div style="display: inline_block" align="center">  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucass235&theme=blue"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucass235&theme=blue"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucass235&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucass235&layout=compact&langs_count=7&theme=react" />
 
  </div>
 
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucass235&repo=lucass235&theme=react)](https://github.com/lucass235/lucass235)
 
