@@ -1,12 +1,14 @@
 # Olá, Sejam Bem Vindos!! 🙃
 
-<h2> Sou Lucas dos Santos Amorim Rêgo 👋</h2>
+## Sou Lucas dos Santos Amorim Rêgo 👋
 
 * Estudante de Ciência da computação 💻
 * Brasileiro 🇧🇷
 * 22 anos
+<h1></h1>
 
-### Meus Contatos
+ ### Meus Contatos
+ 
 <div>
 <a href="https://www.linkedin.com/in/lucass235/" target="_blank">
   <img align="center" alt="lucas-linkedin" height="20" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" style="max-width:100%">
@@ -24,6 +26,7 @@
   <img align="center" alt="lucas-twiter" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%">
   </a>
   </div>
+  <h1></h1>
   
   ### Minhas Habilidades
   <div>
@@ -41,13 +44,15 @@
    <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   </div>
+  <h1></h1>
   
-### Linguagens Usadas
+### Linguagens Usadas e status GitHub
  <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucass235)](https://github.com/lucass235/github-readme-stats)
-  <a href="https://github.com/lucass235">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucass235&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/lucass235">
+<div style="display: inline_block" align="center">  
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucass235&theme=blue"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucass235&theme=blue"/>
 
  </div>
 
