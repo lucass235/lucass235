@@ -37,9 +37,7 @@
   <img align="center" alt="lucas-github" height="50" width="40" src="https://images-ext-1.discordapp.net/external/mLneLxrunP3vGXXf58XTfy4MvR8XvaXtJeeXLE5hsxY/https/i.imgur.com/c4vqk2T.png?width=299&height=300" style="max-width:100%">
   </a>
   
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   
   </div>
   <h1></h1>
@@ -50,6 +48,9 @@
   <a href="https://github.com/lucass235">
    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Angular" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Lucas-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
 </div>  
   
