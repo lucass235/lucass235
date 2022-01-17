@@ -52,6 +52,7 @@
    <img align="center" alt="Lucas-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-SQL" height="30" width="60" src="https://miro.medium.com/max/1020/1*qpXdU5idVl15l9LxUlQ3-A.jpeg">
+   <img align="center" alt="Lucas-ReactJS" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
   </a>
 </div>  
   
