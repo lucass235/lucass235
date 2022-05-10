@@ -31,13 +31,18 @@
   ### Minhas Habilidades
   <div>
   
-  <img align="center" alt="lucas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%">
-  </a> 
-  
-  <img align="center" alt="lucas-github" height="50" width="40" src="https://images-ext-1.discordapp.net/external/mLneLxrunP3vGXXf58XTfy4MvR8XvaXtJeeXLE5hsxY/https/i.imgur.com/c4vqk2T.png?width=299&height=300" style="max-width:100%">
-  </a>
-  
-  
+   <img align="center" alt="lucas-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"        style="max-width:100%">
+    </a> 
+  <img align="center" alt="lucas-Git" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"            style="max-width:100%">
+    </a> 
+   <img align="center" alt="lucas-github" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="max-width:100%">
+    </a>
+   <img align="center" alt="Angular" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="C#" height="30" width="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Lucas-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   </div>
   <h1></h1>
@@ -46,11 +51,9 @@
   ### Aprendendo...
  
   <a href="https://github.com/lucass235">
-   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Angular" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
-   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Lucas-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Lucas-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   
+   
+  
    <img align="center" alt="Lucas-SQL" height="30" width="60" src="https://miro.medium.com/max/1020/1*qpXdU5idVl15l9LxUlQ3-A.jpeg">
    <img align="center" alt="Lucas-ReactJS" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
   </a>
