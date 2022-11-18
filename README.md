@@ -2,7 +2,7 @@
 
 ## Sou Lucas dos Santos Amorim Rêgo 👋
 
-* Estudante de Ciência da computação 💻, 5º período - UNICAP
+* Estudante de Ciência da computação 💻, 6º período - UNICAP
 * Brasileiro 🇧🇷
 * 22 anos
 <h1></h1>
