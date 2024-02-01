@@ -1,5 +1,5 @@
 # 💫 About Me:
-computer science student 👨‍💻<br>23 years💁‍♂<br>Brasileiro 🇧🇷
+computer science student 👨‍💻<br>24 years💁‍♂<br>Brasileiro 🇧🇷
 
 
 ## 🌐 Socials:
