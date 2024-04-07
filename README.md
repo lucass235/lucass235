@@ -1,5 +1,5 @@
 # 💫 About Me:
-graduate science student 👨‍💻<br>24 years💁‍♂<br>Brasileiro 🇧🇷
+graduated in science of computing 👨‍💻<br>24 years💁‍♂<br>Brasileiro 🇧🇷
 
 
 ## 🌐 Socials:
