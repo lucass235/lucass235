@@ -1,5 +1,5 @@
 # 💫 About Me:
-graduated in science of computing 👨‍💻<br>25 years💁‍♂<br>Brasileiro 🇧🇷
+graduated in science of computing 👨‍💻<br>26 years💁‍♂<br>Brasileiro 🇧🇷
 
 
 ## 🌐 Socials:
