@@ -67,4 +67,4 @@ Atualmente trabalhando com backend, frontend, IA aplicada, RAG, pipelines de dad
 ---
 [![](https://visitcount.itsvg.in/api?id=Lucass235&icon=4&color=1)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/lucass235/lucass235/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Lucass235/Lucass235/output/github-contribution-grid-snake.svg)
