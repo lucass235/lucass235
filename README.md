@@ -1,4 +1,5 @@
 # 💫 About Me:
+Mestrando em Enegenharia de software e Pesquisador em CTI no CESAR School/CESAR <br>
 Graduado em Ciência da Computação 👨‍💻<br>
 26 anos 💁‍♂️<br>
 Brasileiro 🇧🇷<br>
